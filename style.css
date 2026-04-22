@@ -89,6 +89,10 @@ nav ul li a.active {
     color: white;
 }
 
+.btn-contact:hover{
+    background-color: #800307;
+}
+
 .content {
     text-align: center;
     background-color: #fff9f9;
